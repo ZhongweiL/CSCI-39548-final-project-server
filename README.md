@@ -1,6 +1,6 @@
-# server-starter-code
+# server-code
 
-This repository is the server (back-end) starter code for Final Project (CRUD Application).
+This repository is the server (back-end) code for Final Project (CRUD Application) of Web Development course at Hunter college.
 
 ### Prerequisites
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
@@ -12,3 +12,7 @@ This repository is the server (back-end) starter code for Final Project (CRUD Ap
 3.	Go into the "sever-starter-code" folder, enter the command to install dependencies: `npm install` 
 4.	Start the server application by entering the command: `npm start` 
 5.	After the server application is successfully started, its access address is at: `http://localhost:5000` 
+
+# Group member(s)
+Zhongwei Li \
+GitHub username: ZhongweiL
